@@ -23,7 +23,8 @@
 - Tailwind CSS
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. 
+##The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
 ## <a name="features">🔋 Features</a>
 
 👉 **Authentication**: User authentication using GitHub through NextAuth, ensuring secure sign-in/out and session management.
